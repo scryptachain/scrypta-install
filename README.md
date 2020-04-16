@@ -10,8 +10,8 @@ This repository is solely maintained by Scrypta Foundation
 From https://get.scryptachain.org:
 
 ```shell
-curl -fsSL https://get.scryptachain.org -o get-docker.sh
-sh get-docker.sh
+curl -fsSL https://get.scryptachain.org -o get-scrypta.sh
+sh get-scrypta.sh
 ```
 
 From the source repo:
